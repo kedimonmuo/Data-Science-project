@@ -1,7 +1,6 @@
-# ds_project
-imdb dataset 
+# Data science project
 
-This is a Data science project on IMBD data.
+This is a Data science project code on IMBD data.
 
 source: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
